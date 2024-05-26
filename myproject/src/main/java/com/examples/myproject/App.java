@@ -12,7 +12,7 @@ public class App
 //    }
     
     public String sayHello() {
-    	return "Hello";
+    	return sayHello(null);
     }
     
     public String sayHello(String name) {
